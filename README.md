@@ -9,6 +9,8 @@ This project contains:
     - AWS role 
     - local setup 
 - zshrc config
+- IntelliJ
+    - Custom Style
 
 ## Installing
 
