@@ -29,3 +29,4 @@ docker
 ## Helpful inks
 
 [zsh-cheatsheet](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet)
+[aws-launcher](https://github.com/kwent/aws-launcher)
