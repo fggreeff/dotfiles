@@ -1,16 +1,20 @@
-# Project title
+# Dotfiles
 
 This repository contains helpful tools and scripts I use to automate development processes
 
 ## Getting started
 
 This project contains:
+- IntelliJ
+    - Custom Style
 - scripts
     - AWS role 
     - local setup 
+- standards
+    - readme
 - zshrc config
-- IntelliJ
-    - Custom Style
+
+
 
 ## Installing
 
@@ -26,7 +30,7 @@ flux
 evernote
 docker
 ```
-## Helpful inks
+## Helpful links
 
 [zsh-cheatsheet](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet)
 [aws-launcher](https://github.com/kwent/aws-launcher)
