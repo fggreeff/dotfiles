@@ -2,6 +2,10 @@
 
 A short description of the purpose of the repository.
 
+## Architecture
+
+The architecture diagram for the application, ensure to seperate current from proposed / target diagrams.
+
 ## Getting started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
