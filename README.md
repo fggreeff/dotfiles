@@ -34,3 +34,4 @@ docker
 
 [zsh-cheatsheet](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet)
 [aws-launcher](https://github.com/kwent/aws-launcher)
+[make-terminal-productive](https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8)
