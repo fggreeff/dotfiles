@@ -113,6 +113,9 @@ alias myip="curl http://ipecho.net/plain; echo"
 alias svim='sudo vim'
 alias updatepc='sudo apt-get update && sudo apt-get upgrade'
 
+# export .env
+alias setenv="export $(grep -v '^#' .env | xargs -d '\n')"
+
 # GIT aliases
 alias ginit="git init && git co -b master && git ci --allow-empty -m 'Initial commit'"
 
